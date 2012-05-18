@@ -1,3 +1,10 @@
+/*!
+ * Pluga3D, a jQuery helper for 3D effects
+ *
+ * Scripted By Maxime @ ecole-multimedia
+ * Dual licensed under the MIT or GPL Version 2 licenses.
+ *
+ */
 (function( $ ){
 
 	$.fn.pluga3d = function( options ) {
